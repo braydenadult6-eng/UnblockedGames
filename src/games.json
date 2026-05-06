@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "url": "https://play2048.co/",
+    "description": "Slide tiles and merge them to reach the 2048 tile!",
+    "icon": "Hash"
+  },
+  {
+    "id": "tetris",
+    "title": "Block Puzzle",
+    "category": "Arcade",
+    "url": "https://tetris.com/play-tetris",
+    "description": "Classic block stacking gameplay.",
+    "icon": "Ghost"
+  },
+  {
+    "id": "snake",
+    "title": "Snake Retro",
+    "category": "Arcade",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "description": "Vintage arcade fun.",
+    "icon": "Tent"
+  },
+  {
+    "id": "chess",
+    "title": "Lichess",
+    "category": "Strategy",
+    "url": "https://lichess.org/export",
+    "description": "Play chess against the world.",
+    "icon": "Sword"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Hero",
+    "category": "Arcade",
+    "url": "https://flappybird.io/",
+    "description": "Tap to fly through the pipes.",
+    "icon": "Wind"
+  },
+  {
+    "id": "paperio",
+    "title": "Paper.io 2",
+    "category": "Action",
+    "url": "https://paper-io.com/",
+    "description": "Conquer as much territory as possible.",
+    "icon": "Layers"
+  }
+]
